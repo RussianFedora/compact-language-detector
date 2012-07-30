@@ -1,0 +1,2 @@
+compact-language-detector
+=========================
