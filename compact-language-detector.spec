@@ -39,8 +39,8 @@ Python bindings for %{name}.
 
 
 %build
-automake --add-missing
-autoreconf --install
+#automake --add-missing
+#autoreconf --install
 #cd bindings/python
 #autoreconf --install
 
